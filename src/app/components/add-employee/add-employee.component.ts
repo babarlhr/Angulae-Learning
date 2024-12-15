@@ -1,7 +1,9 @@
 import { Component } from '@angular/core';
 
-@Component({
+//component Decorator
+@Component({    
   selector: 'app-add-employee',
+  standalone:true,
   imports: [],
   templateUrl: './add-employee.component.html',
   styleUrl: './add-employee.component.css'
