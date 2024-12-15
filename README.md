@@ -69,3 +69,4 @@ For more information on using the Angular CLI, including detailed command refere
 1. ng new angular_18_learning
 2. npm install
 3. ng serve  or ng serve --o => also open broswer or ng serve --port 4204
+4. ng generate component <compnent-name> or ng g c <compnent-name>
